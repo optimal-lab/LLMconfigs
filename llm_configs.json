@@ -109,5 +109,5 @@
         "model_name": "deepseek/deepseek-chat-v3-0324",
         "api_type": "openrouter",
         "provider_list": ["Fireworks"]
-    },
+    }
 }
