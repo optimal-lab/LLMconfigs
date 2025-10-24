@@ -114,5 +114,9 @@
         "model_name": "deepseek/deepseek-chat-v3-0324",
         "api_type": "openrouter",
         "provider_list": []
+    },
+    "llm30_vllm": {
+        "model_name": "qwen3-next",
+        "api_type": "local_vllm"
     }
 }
