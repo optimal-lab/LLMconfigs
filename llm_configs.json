@@ -105,9 +105,14 @@
         "api_type": "openrouter",
         "provider_list": ["Fireworks"]
     },
+    "llm27_or": {
+        "model_name": "anthropic/claude-sonnet-4",
+        "api_type": "openrouter",
+        "provider_list": ["Fireworks"]
+    },
     "llm29_or": {
         "model_name": "deepseek/deepseek-chat-v3-0324",
         "api_type": "openrouter",
-        "provider_list": ["Fireworks"]
+        "provider_list": []
     }
 }
