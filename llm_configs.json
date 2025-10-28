@@ -115,6 +115,11 @@
         "api_type": "openrouter",
         "provider_list": []
     },
+    "llm30_or": {
+        "model_name": "qwen/qwen3-next-80b-a3b-instruct",
+        "api_type": "openrouter",
+        "provider_list": ["google-vertex"]
+    },
     "llm30_vllm": {
         "model_name": "qwen3-next",
         "api_type": "local_vllm"
