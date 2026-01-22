@@ -127,5 +127,9 @@
     "llm34":{
         "model_name":"gemini-2.5-flash-lite-preview-09-2025",
         "api_type":"google"
+    },
+    "llm35":{
+        "model_name":"gemini-2.5-flash-preview-09-2025",
+        "api_type":"google",
     }
 }
