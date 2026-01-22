@@ -130,6 +130,6 @@
     },
     "llm35":{
         "model_name":"gemini-2.5-flash-preview-09-2025",
-        "api_type":"google",
+        "api_type":"google"
     }
 }
